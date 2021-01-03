@@ -13,12 +13,22 @@ Github블로그를 만들어보기로 결심을 하고 여기저기 구글링을
 다 내가 하고자 했는데.... 어쨌든..
 
 [MAC OS] 설치방법은 다음과 같다.
+================================
 1. brew install rbenv   
-<img width="268" alt="스크린샷 2021-01-03 16 31 20" src="https://user-images.githubusercontent.com/42923027/103474354-63603b80-4de6-11eb-8ca4-5d4859a03843.png">
+---------------------------
+<img width="268" alt="스크린샷 2021-01-03 16 31 20" src="https://user-images.githubusercontent.com/42923027/103474354-63603b80-4de6-11eb-8ca4-5d4859a03843.png">  
+
 
 2. vim ~/.zshrc 실행  
+---------------------------
   
-3. [[ -d ~/.rbenv ]] && \
+  
+3. 환경변수 설정
+---------------------------
+[[ -d ~/.rbenv ]] && \
     export PATH=${HOME}/.rbenv/bin:${PATH} && \
   eval “$(rbenv init -)” 추가 작성 후 저장
-<img src="../assets/img/스크린샷 2021-01-03 16.58.13.png" width="300" height="60"> 
+  
+<img width="370" alt="스크린샷 2021-01-03 16 58 13" src="https://user-images.githubusercontent.com/42923027/103474387-a5897d00-4de6-11eb-88f9-b97b628093a2.png">
+
+
