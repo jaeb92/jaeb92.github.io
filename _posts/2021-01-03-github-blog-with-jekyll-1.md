@@ -1,5 +1,6 @@
 ---
 title: "Jekyll로 github 블로그 만들기 (1) 환경설정"
+date: 2021-01-03 15:25:28 -0400
 tag: "jekyll", "github", "삽질"
 categories: Jekyll 
 ---
