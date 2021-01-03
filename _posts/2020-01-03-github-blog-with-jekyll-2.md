@@ -1,5 +1,5 @@
 ---
-title: "Jekyll로 Github 블로그 만들기 - (1) ruby 및 사전준비"
+title: "Jekyll로 Github 블로그 만들기 - (1) ruby 설치 및 사전준비"
 categories: Jekyll github 삽질
 ---
 
