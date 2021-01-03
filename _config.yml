@@ -12,15 +12,15 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "nemo" #"dark" #"dirt" # "default", "air", "aqua", "contrast", "dark","neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"dark" #"dirt" # "default", "air", "aqua", "contrast", "dark","neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "Jaeb's Github blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaeb"
-description              : "An amazing website."
+description              : "An normal website."
 url                      : "https://jaeb92.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jaeb92/jaeb92.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -276,7 +276,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
