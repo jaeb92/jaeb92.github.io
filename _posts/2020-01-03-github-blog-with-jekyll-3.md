@@ -8,4 +8,5 @@ categories: Jekyll github 삽질
 이번 포스트에서는 github에 repository를 생성하고 jekyll 테마를 선택해서 연동하는 방법을 알아보도록 하자.
 
 
-우선 git을 다뤄봤던 사람이라면 repository를 생성하는데는 큰 어려움이 없을 것이라고 생각하고 진행하도록 한다.
+git을 다뤄봤던 사람이라면 repository를 생성하는데는 큰 어려움이 없을 것이기 때문에 너무 자세한 설명은 잠시 넣얻두고자 한다.
+
