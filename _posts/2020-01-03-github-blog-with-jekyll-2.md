@@ -20,14 +20,22 @@ Github블로그를 만들어보기로 결심을 하고 여기저기 구글링을
 
 
 2. 환경변수 설정  
-  2-1) vim ~/.zshrc  
-  2-2) [[ -d ~/.rbenv ]] && \  
+  - vim ~/.zshrc  
+  - [[ -d ~/.rbenv ]] && \  
          export PATH=${HOME}/.rbenv/bin:${PATH} && \  
          eval “$(rbenv init -)”  
     
     추가 작성 후 저장
   
 <img width="370" alt="스크린샷 2021-01-03 16 58 13" src="https://user-images.githubusercontent.com/42923027/103474387-a5897d00-4de6-11eb-88f9-b97b628093a2.png">
+
+
+3. 루비 설치 확인
+  - ruby -v
+  
+  
+<img width="475" alt="스크린샷 2021-01-03 17 19 31" src="https://user-images.githubusercontent.com/42923027/103474508-f3eb4b80-4de7-11eb-958d-a2fb303671f5.png">
+
 
 
 
