@@ -32,7 +32,7 @@ repository로 들어간 후 페이지 우측 상단에 Fork 버튼을 눌러서 
 
 fork가 완료된 자신의 repository의 settings로 들어가서 repository이름을 다음과 같이 변경해주자.
 내 username은 'jaeb92'이다 그래서 **jaeb92.github.io**가 내 repository 이름이 된다.
-<pre>추후 이 repository 이름을 URL창에 입력해서 블로그에 접속이 가능하다.</pre>
+<pre>이 repository 이름을 url창에 입력해서 <br/> 블로그로 이동할 예정</pre>
 
 ![스크린샷 2021-01-04 22 49 44](https://user-images.githubusercontent.com/42923027/103541715-2d52b280-4edf-11eb-95a5-849a256f9d4e.png)
 
