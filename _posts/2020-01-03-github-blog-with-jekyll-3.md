@@ -9,7 +9,7 @@ categories: Jekyll github 삽질
 
 ---
 
-1) 자신이 원하는 테마 선택하기
+<h3>1) 자신이 원하는 테마 선택하기</h3>
 - <ol>https://github.com/topics/jekyll-theme</ol>
 위의 링크를 타고 들어가서 자신이 원하는 테마를 선택한다. 
 
@@ -20,7 +20,7 @@ categories: Jekyll github 삽질
 
 ---
 
-2) 원하는 테마의 repository를 fork 하기
+<h3>2) 원하는 테마의 repository를 fork 하기</h3>
   
 저 테마를 클릭하면 테마의 repository로 접근할 수 있다.
 repository로 들어간 후 페이지 우측 상단에 Fork 버튼을 눌러서 자신의 repository로 fork를 진행하자.
@@ -28,7 +28,7 @@ repository로 들어간 후 페이지 우측 상단에 Fork 버튼을 눌러서 
 
 ---
 
-3) 자신의 **username으로 repository 이름 변경**하기
+<h3>3) 자신의 username으로 repository 이름 변경하기</h3>
 
 fork가 완료된 자신의 repository의 settings로 들어가서 repository이름을 다음과 같이 변경해주자.
 내 username은 'jaeb92'이다 그래서 **jaeb92.github.io**가 내 repository 이름이 된다.
