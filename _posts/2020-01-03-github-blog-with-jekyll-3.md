@@ -1,5 +1,5 @@
 ---
-title: "Jekyll로 Github 블로그 만들기 - (2) github repository 생성 및 jekyll 테마 선택"
+title: "Jekyll로 Github 블로그 만들기 - (2) jekyll 테마 선택 및 github repository 연동"
 categories: Jekyll github 삽질
 ---
 
@@ -14,8 +14,8 @@ categories: Jekyll github 삽질
 위의 링크를 타고 들어가서 자신이 원하는 테마를 선택한다. 
 
 나는 best match로 정렬방식을 선택해서 가장 먼저 나오는 **minimal-mistakes** 테마로 선택했다.
-<h6><pre>테마는 취향대로! but, 테마마다 적용 방식은 다를 수도 있다.
-테마 별 자세한 방식은 테마 제작자가 적어둔 매뉴얼을 참고하자.</pre></h6>
+>> <pre>테마는 취향대로! but, 테마마다 적용 방식은 다를 수도 있다. 
+>> 테마 별 자세한 방식은 테마 제작자가 적어둔 매뉴얼을 참고하자.</pre>
 
 ![스크린샷 2021-01-04 22 24 13](https://user-images.githubusercontent.com/42923027/103539563-aa7c2880-4edb-11eb-8650-30a870b7f175.png)
 
