@@ -37,3 +37,41 @@ fork가 완료된 자신의 repository의 settings로 들어가서 repository이
 ![스크린샷 2021-01-04 22 49 44](https://user-images.githubusercontent.com/42923027/103541715-2d52b280-4edf-11eb-95a5-849a256f9d4e.png)
 
 ---
+fork를 하고 repository이름을 변경하고 나면 아래와 같은 화면을 볼 수 있을 것이다.
+
+![스크린샷 2021-01-04 22 54 56](https://user-images.githubusercontent.com/42923027/103542262-0a74ce00-4ee0-11eb-81ae-f3ac8822708e.png)
+
+
+---
+
+
+<h3>4) 자신의 local 환경에 repository clone 받기 </h3>
+
+위에서 생성한 자신의 repository를 clone받자.
+
+
+아래의 주소를 복사!
+
+![스크린샷 2021-01-04 23 00 06](https://user-images.githubusercontent.com/42923027/103542687-a56da800-4ee0-11eb-81e1-8ebeeeb454e2.png)
+
+
+windows의 command창이나 mac os의 terminal을 실행. <br>clone 받고자 하는 경로로 이동한 뒤 다음의 명령어를 실행!
+(mac os는 기본적으로 git이 세팅되어 있어 바로 실행가능하지만 windows의 경우에는 git을 별도의 설치를 진행해야 한다.)
+
+*참고로 필자는 mac os를 사용하고 있다.*
+~~~ 
+> git clone https://github.com/jaeb92/jaeb92.github.io
+
+Cloning into 'jaeb92.github.io'...
+remote: Enumerating objects: 36, done.
+remote: Counting objects: 100% (36/36), done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 18145 (delta 24), reused 24 (delta 12), pack-reused 18109
+Receiving objects: 100% (18145/18145), 43.72 MiB | 8.35 MiB/s, done.
+Resolving deltas: 100% (10849/10849), done.
+~~~
+
+자신의 local환경에 clone까지 되었다면 초기 세팅과정은 마무리가 다 되어간다고 본다.<br>이제는 **jekyll 테마별 개인 설정**을 진행해야 하는데 이 부분은 테마별로 <br>설정하는 방법이 조금씩 다를 수 있으니 처음에 말했던 것처럼 **<br>테마 저작자가 만들어둔 매뉴얼을 참고하여 진행하는 것을 추천한다.**
+
+
+
