@@ -5,8 +5,20 @@ categories: Jekyll github 삽질
 
 지난 포스트에서는 windows와 mac os에서 ruby 및 jekyll, bundler를 설치하는 방법을 알아봤다.
 
-이번 포스트에서는 github에 repository를 생성하고 jekyll 테마를 선택해서 연동하는 방법을 알아보도록 하자.
+이번 포스트에서는 jekyll 테마를 선택해서 자신의 github repository와 연동하는 방법을 알아보도록 하자.
+
+---
+
+1) 자신이 원하는 테마 선택하기
+- <ol>https://github.com/topics/jekyll-theme</ol>
+위의 링크를 타고 들어가서 자신이 원하는 테마를 선택한다. 
+
+best match로 정렬방식을 선택해서 가장 먼저 나오는 **minimal-mistakes** 테마로 선택했다.
+<pre>테마는 취향대로! but, 테마마다 적용 방식은 다를 수도 있다.
+테마 별 자세한 방식은 테마 제작자가 적어둔 매뉴얼을 참고하자.</pre>
+
+![스크린샷 2021-01-04 22 24 13](https://user-images.githubusercontent.com/42923027/103539563-aa7c2880-4edb-11eb-8650-30a870b7f175.png)
 
 
-git을 다뤄봤던 사람이라면 repository를 생성하는데는 큰 어려움이 없을 것이기 때문에 너무 자세한 설명은 잠시 넣얻두고자 한다.
 
+---
