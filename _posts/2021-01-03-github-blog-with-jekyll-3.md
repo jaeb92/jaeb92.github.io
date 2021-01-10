@@ -1,5 +1,6 @@
 ---
 title: "Jekyll로 Github 블로그 만들기 - (2) jekyll 테마 선택 및 github repository 연동"
+layout: categories
 categories: Jekyll github 삽질
 ---
 
