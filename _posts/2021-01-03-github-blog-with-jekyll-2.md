@@ -1,5 +1,7 @@
 ---
 title: "Jekyll로 Github 블로그 만들기 - (1) ruby 설치 및 사전준비"
+layout: categories
+permalink: /categories/
 categories: Jekyll github 삽질
 ---
 
