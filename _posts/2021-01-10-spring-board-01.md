@@ -9,7 +9,7 @@ categories: Spring
 오래전에 스프링으로 게시판을 만들어 본 경험이 있지만 현재는 다른 프로젝트를 진행하다 보니 자바, 스프링을 소홀히 한 감이 있습니다. 그래서 다시 공부도 할 겸 Spring + Mysql + Mybatis + Apache Tomcat 정도로 간단한 게시판을 구현해보려 합니다. 
 
 
-순서는 다음과 같습니다.
+포스트 진행 순서
 
 1. Eclipse 프로젝트 생성 및 기본 설정
 2. Apache Tomcat 서버 설정
