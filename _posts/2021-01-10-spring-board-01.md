@@ -51,5 +51,64 @@ Spring MVC Project, project name 설정한 뒤 'next' 진행해주세요
 
 프로젝트가 정상적으로 생성되었다면 pom.xml파일을 열어 각종 dependency들을 설정해줍니다.
 
+
+추가해준 dependency 
+
+- MySQL Connector/J » 8.0.22
+- MyBatis » 3.5.6
+- MyBatis Spring » 2.0.6
+- Spring JDBC » 5.2.12.RELEASE
+- Spring TestContext Framework » 5.2.12.RELEASE
+
+
+
+```
+<properties>
+    <java-version>1.8</java-version>
+    <org.springframework-version>5.2.12.RELEASE</org.springframework-version>
+    <org.aspectj-version>1.9.6</org.aspectj-version>
+    <org.slf4j-version>1.7.25</org.slf4j-version>
+</properties>
+
+...
+...
+...
+
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-test</artifactId>
+    <version>${org.springframework-version}</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-jdbc</artifactId>
+    <version>${org.springframework-version}</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
+<dependency>
+    <groupId>org.mybatis</groupId>
+    <artifactId>mybatis-spring</artifactId>
+    <version>2.0.6</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+<dependency>
+    <groupId>org.mybatis</groupId>
+    <artifactId>mybatis</artifactId>
+    <version>3.5.6</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.22</version>
+</dependency>
+```
+
 ![spring-4](https://user-images.githubusercontent.com/42923027/104120925-fa486d00-537d-11eb-8ce4-cf4ec92c3f8c.png)
 
