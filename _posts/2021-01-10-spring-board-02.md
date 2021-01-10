@@ -4,6 +4,15 @@ layout: categories
 permalink: /categories/Spring/
 categories: Spring
 ---
+>.
+>포스트 진행 순서
+>1. Eclipse 프로젝트 생성 및 기본 설정
+>2. Apache Tomcat 서버 설정
+>3. DB 생성 및 연동
+>4. CURD 구현
+>5. 추후 예정..
+>.
+
 
 이전 포스트에서는 Eclipse에 Spring project를 생성하는 방법, pom.xml파일에 프로젝트 진행에 있어 필요한 dependency들 그리고 한글 인코딩 설정하는 내용을 다뤘습니다. 이번 포스트에서는 Apache Tomcat 서버를 설정하는 방법을 다뤄보도록 하겠습니다.
 
@@ -43,3 +52,25 @@ Tomcat v9.0 Server를 선택하시고 다운 받은 Apache Tomcat의 경로로 �
 저는 8080 포트 그대로 진행하였습니다.
 
 ![spring-10](https://user-images.githubusercontent.com/42923027/104121843-c6247a80-5384-11eb-82be-d6336de5097a.png)
+
+
+---
+
+포트까지 설정을 마친 뒤 Modules탭 >> Add Web Modules... >> 프로젝트 선택 >> ok<br/>
+
+![spring-12](https://user-images.githubusercontent.com/42923027/104122041-046e6980-5386-11eb-9bfa-67c6021546e0.png)
+
+
+---
+
+위 단계까지 진행한 뒤 브라우저를 열고 localhost:8080에 접속하면 다음과 같은 화면을 볼 수 있습니다.<br/>
+(페이지의 내용은 제가 수정했습니다.)
+
+![spring-11](https://user-images.githubusercontent.com/42923027/104121969-8f029900-5385-11eb-95dd-ac3796af1091.png)
+
+
+---
+
+
+이상 Apache Tomcat 서버를 적용해봤습니다. 아직까지는 크게 어려운 부분이 없다고 생각해서 따라오는 데 무리가 없을 거라고 생각합니다.  다음 포스트에서는 데이터베이스 및 필요한 테이블들을 생성해주고 프로젝트에 연동이 되는지 간단한 테스트까지 진행해보도록 하겠습니다.
+
