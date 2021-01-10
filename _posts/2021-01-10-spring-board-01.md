@@ -120,6 +120,7 @@ Spring MVC Project, project name 설정한 뒤 'next' 진행해주세요
 web.xml에 한글 필터 추가하기
 
 - src > main > webapp > WEB-INF > web.xml 파일에 다음을 입력해주세요
+  
 ```
 <!-- 한글설정 -->
 <filter>
