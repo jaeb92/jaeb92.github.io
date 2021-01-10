@@ -2,7 +2,7 @@
 title: "Jekyll로 Github 블로그 만들기 - intro"
 layout: categories
 permalink: /categories/
-categories: Jekyll github 삽질
+categories: Jekyll github블로그
 ---
 
 타 사이트의 블로그를 여러 번 사용해 본 경험이 있지만 왠지 모르게  

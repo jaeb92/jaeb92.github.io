@@ -2,7 +2,7 @@
 title: "Jekyll로 Github 블로그 만들기 - (2) jekyll 테마 선택 및 github repository 연동"
 layout: categories
 permalink: /categories/
-categories: Jekyll github 삽질
+categories: Jekyll github블로그
 ---
 
 지난 포스트에서는 windows와 mac os에서 ruby 및 jekyll, bundler를 설치하는 방법을 알아봤다.

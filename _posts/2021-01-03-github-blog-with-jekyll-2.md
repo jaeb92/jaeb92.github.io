@@ -2,7 +2,7 @@
 title: "Jekyll로 Github 블로그 만들기 - (1) ruby 설치 및 사전준비"
 layout: categories
 permalink: /categories/
-categories: Jekyll github 삽질
+categories: Jekyll github블로그
 ---
 
 Github블로그를 만들어보기로 결심을 하고 여기저기 구글링을 해봤다.
