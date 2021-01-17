@@ -4,15 +4,16 @@ layout: categories
 permalink: /categories/Spring/
 categories: Spring
 ---
+
 >.
 >포스트 진행 순서
 >1. Eclipse 프로젝트 생성 및 기본 설정
 >2. Apache Tomcat 서버 설정
->3. DB 생성 및 연동
->4. CURD 구현
->5. 추후 예정..
+>3. MySQL 설치
+>4. DB 생성 및 Mybatis 연동
+>5. CURD 구현
+>6. 추후 예정..
 >.
-
 
 이전 포스트에서는 Eclipse에 Spring project를 생성하는 방법, pom.xml파일에 프로젝트 진행에 있어 필요한 dependency들 그리고 한글 인코딩 설정하는 내용을 다뤘습니다. 이번 포스트에서는 Apache Tomcat 서버를 설정하는 방법을 다뤄보도록 하겠습니다.
 
