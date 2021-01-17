@@ -9,9 +9,9 @@ categories: Spring
 >1. Eclipse 프로젝트 생성 및 기본 설정
 >2. Apache Tomcat 서버 설정
 >3. MySQL 설치
->3. DB 생성 및 Mybatis 연동
->4. CURD 구현
->5. 추후 예정..
+>4. DB 생성 및 Mybatis 연동
+>5. CURD 구현
+>6. 추후 예정..
 >.
 
 
