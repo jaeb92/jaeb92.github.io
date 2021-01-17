@@ -1,5 +1,5 @@
 ---
-title: "Spring MVC 게시판 구현하기 (2) - Apache Tomcat 서버 설정"
+title: "Spring MVC 게시판 구현하기 (3) - MySQL 설치"
 layout: categories
 permalink: /categories/Spring/
 categories: Spring
@@ -8,6 +8,7 @@ categories: Spring
 >포스트 진행 순서
 >1. Eclipse 프로젝트 생성 및 기본 설정
 >2. Apache Tomcat 서버 설정
+>3. MySQL 설치
 >3. DB 생성 및 Mybatis 연동
 >4. CURD 구현
 >5. 추후 예정..
