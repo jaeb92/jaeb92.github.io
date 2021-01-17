@@ -1,7 +1,5 @@
 ---
 title: "Spring MVC 게시판 구현하기 (1) - 프로젝트 생성 및 환경설정"
-layout: categories
-permalink: /categories/Spring/
 categories: Spring
 ---
 

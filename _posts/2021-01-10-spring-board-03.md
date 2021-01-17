@@ -1,7 +1,5 @@
 ---
 title: "Spring MVC 게시판 구현하기 (3) - MySQL 설치"
-layout: categories
-permalink: /categories/Spring/
 categories: Spring
 ---
 >.

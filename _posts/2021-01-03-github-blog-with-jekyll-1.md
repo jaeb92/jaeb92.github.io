@@ -1,7 +1,5 @@
 ---
 title: "Jekyll로 Github 블로그 만들기 - intro"
-layout: categories
-permalink: /categories/Jekyll/
 categories: Jekyll
 ---
 

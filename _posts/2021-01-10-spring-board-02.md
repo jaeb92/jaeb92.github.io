@@ -1,7 +1,5 @@
 ---
 title: "Spring MVC 게시판 구현하기 (2) - Apache Tomcat 서버 설정"
-layout: categories
-permalink: /categories/Spring/
 categories: Spring
 ---
 
