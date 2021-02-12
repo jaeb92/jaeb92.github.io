@@ -88,14 +88,14 @@ analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : G-JMR524KFYV
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
   name             : "Jaeb"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **normal** person."
+  bio              : "nomad coder"
   location         : "Somewhere"
   email            : "jaebin9274@naver.com"
   links:
