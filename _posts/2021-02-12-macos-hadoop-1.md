@@ -1,5 +1,5 @@
 ---
-title: "Hadoop 한번 해보기 (1) - MapReduce가 뭐죠? 🗺 지도인가요🤣🤣?"
+title: "Hadoop 한번 해보기 (1) - Map Reduce가 뭐죠? Map? 🗺 지도인가요🤣🤣?"
 categories: Hadoop
 ---
 
