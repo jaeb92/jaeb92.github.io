@@ -48,7 +48,7 @@ categories: Hadoop
 <br>
 <center>
 
-![human](https://user-images.githubusercontent.com/42923027/107868848-079bce80-6ecb-11eb-8493-40c62494bbf9.gif)
+"![human](https://user-images.githubusercontent.com/42923027/107868848-079bce80-6ecb-11eb-8493-40c62494bbf9.gif)"
 
 </center>
 
