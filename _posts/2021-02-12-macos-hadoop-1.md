@@ -18,11 +18,12 @@ categories: Hadoop
 <h3><center>농담입니다🤦‍♂️</center></h3>
 <br>
 
-<h3><center>저도 공부를 하는 입장이기 때문에 정보전달의 느낌이 아니라</center>
-<center>'제가 알고 있는 게 맞죠?'의 느낌으로 적어보도록 하겠습니다.</center>
+<h4><center>저도 배워가는 입장이기 때문에 정보전달의 느낌이 아니라</center>
+<center><h3>'제가 알고 있는 게 맞나요?'</h3>의 느낌으로 적어보도록 하겠습니다.</center>
+<br>
 <center>틀린 부분들 과감히 지적해주시면</center>
 <center>그 지적... 달게 받겠습니다.</center>
-<center>🍦🍭🍬🍩</center></h3>
+<center>🍦🍭🍬🍩</center></h4>
 
 <br>
 <center><h4>맵리듀스의 핵심 내용은 이렇습니다.</h4></center>
