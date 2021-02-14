@@ -19,7 +19,7 @@ categories: Hadoop
 <br>
 
 <h3><center>저도 공부를 하는 입장이기 때문에 정보전달의 느낌이 아니라</center>
-<center>"제가 알고 있는 게 맞죠?" 의 느낌으로 앞으로 적어보도록 하겠습니다.</center>
+<center>'제가 알고 있는 게 맞죠?'의 느낌으로 적어보도록 하겠습니다.</center>
 <center>틀린 부분들 과감히 지적해주시면, 그 지적... 달게 받겠습니다.</center>
 <center>🍦🍭🍬🍩</center></h3>
 
@@ -43,6 +43,7 @@ categories: Hadoop
 
 
 ![human](https://user-images.githubusercontent.com/42923027/107868848-079bce80-6ecb-11eb-8493-40c62494bbf9.gif)
+
 
 ~~<center>조심하십시오🥶😱</center>~~
 
