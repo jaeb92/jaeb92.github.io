@@ -48,7 +48,7 @@ categories: Hadoop
 <br>
 <center>
 
-![human](https://media.giphy.com/media/ZrJcTENQacGhW/giphy.gif)
+<iframe src="https://giphy.com/embed/ZrJcTENQacGhW" width="300" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </center>
 
