@@ -81,22 +81,38 @@ categories: Hadoop
 <center>어떤 공간에 어떤 옷, 어떤 신발들을 넣어놔야 하는지..</center>
 <center>고민이 많이 될 수가 있죠. </center>
 <center><iframe src="https://giphy.com/embed/CxWPp7VYuYURa" width="350" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
-<center><h4>어떤 데이터를 어느 저장소에 넣어야 하지 🤔? </h4></center>
-<center><h4>내가 찾는 데이터가 어느 저장소에 있지 🤔? </h4></center>
+<center><h4>🤔 어떤 데이터를 어느 저장소에 넣어야 하지 🤔? </h4></center>
+<center><h4>🤔 내가 찾는 데이터가 어느 저장소에 있지 🤔? </h4></center>
 
 <center>이런 구조적인 것을 설계하는 단계부터 더 복잡해지게 되는 것이죠</center>
+<br>
+
+~~<center>😎 이래서 설계가 중요합니다 😎</center>~~
 <br><br>
 
 
 <center>
 
-<h3>조금 더 자세하게 설명해주세요 🙋‍♂️</h3>
+<h3>조금 더 자세하게 적어보겠습니다 🙋‍♂️</h3>
+
+<br>
+<center>맵 리듀스는 크게 맵(Map)과 리듀스(Reduce)의 단계를 거치게 됩니다.</center>
+<center>중간에 여러 단계들도 존재하긴 합니다만</center>
+<center>이번 포스트에서는 맵과 리듀스에 집중해보도록 하겠습니다.</center>
+<br>
 
 
-맵 리듀스는 맵
-맵리듀스는 Map과 Reduce라는 함수를 기반으로 구성되어 있습니다.
-Map(맵)이라는 것은 어떤 데이터의 값을 식별하기 위해 Key를 부여해주는 작업입니다. 대용량의 데이터들을 하나 하나 읽어가면서 각각의 데이터(value)에 대해서 식별가능한 고유의 key를 부여하는 작업을 하는 것이고 이를 매핑해준다라고 흔히들 이야기 합니다. 
+<center><b>맵(Map)</b>이라는 단계에서는</center>
+<center>대용량의 데이터를 </center>
+<center>잘개 쪼개고</center>
+<center>서로 연관있는 데이터들을 분류하는</center>
+<center>일련의 과정을 수행하는 것입니다.</center>
+<br>
 
-한 쌍의 형태로 만드는 과정을 의미한다. 여기서 KEY와 
+<center><b>리듀스(Recude)</b>라는 과정에서는</center>
+<center>이전 과정까지 거쳐온 데이터들 중에</center>
+<center>자신이 원하는 데이터를 추출하는 과정입니다.</center>
 
-</center>
+
+<center><h1>🧑‍💻</h1></center>
+
