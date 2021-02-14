@@ -41,13 +41,15 @@ categories: Hadoop
 <center>완벽한 비유는 아니지만 느낌적인 느낌을 봐주시기 바랍니다 ㅎㅎ</center>
 
 <center><h4>이렇듯 한 컴퓨터에 엄청난 양의 데이터를 처리하도록 시키면 그 컴퓨터는 어떻게 변할지 모릅니다. ☠️</h4></center>
+<br>
+<center>
 
 
 ![human](https://user-images.githubusercontent.com/42923027/107868848-079bce80-6ecb-11eb-8493-40c62494bbf9.gif)
 
+</center>
 
-~~<center>도망쳐 🥶😱</center>~~
-
+<center><h4>도망쳐 🥶😱</h4></center>
 
 
 대량의 데이터를 처리하는 것보다 속도는 훨씬 증가하겠죠? 물론 그에 따라 발생하는 부작용들은 당연히 존재합니다.
