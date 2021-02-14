@@ -3,7 +3,11 @@ title: "MAC OS Hadoop 설치하고 테스트해보기 (1) - MapReduce"
 categories: Hadoop
 ---
 
-# 1. Map Reduce? 🗺 맵? 
+# 1. Map Reduce? 
+~~<h4><center> 여기서 말하는 맵이 그 🗺 맵인가요??</center></h4>~~
+
+
+<h3><center>아닙니다 😗</center></h3>
 
 
 Map-Reduce라는 건 대용량의 데이터를 처리하기 위해 2004년에 구글에서 발표한 소프트웨어 프레임워크입니다.(출처: 위키백과)
