@@ -1,5 +1,5 @@
 ---
-title: "MAC OS Hadoop 설치하고 테스트해보기 (1) - MapReduce"
+title: "Hadoop 한번 해보기 (1) - MapReduce가 뭐죠? 🗺 지도인가요🤣🤣?"
 categories: Hadoop
 ---
 
@@ -55,7 +55,7 @@ categories: Hadoop
 <center><h4>🥶😱 도망쳐 😱🥶</h4></center>
 
 <br>
-
+<center>여러 컴퓨터에 데이터를 나누어 처리하는 게 무조건적으로 좋다고는 할 수 없습니다.</center>
 <center>여러 대의 컴퓨터가 데이터를 나눠서 처리하면 물론 하나의 컴퓨터가 모든 데이터를 처리하는 것보다</center>
 <center>처리 속도는 훨씬 증가하겠죠? 하지만 그에 따른 부작용도 역시 존재합니다.</center>
 <br>
